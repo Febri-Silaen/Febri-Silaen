@@ -1,101 +1,305 @@
-errornya apa?<div align="center"> <!-- ULTIMATE HERO SECTION --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=450&section=header&text=FEBRI%20SILAEN&fontSize=140&fontAlign=50&fontAlignY=38&animation=twinkling&fontColor=gradient&desc=⚡%20FULL-STACK%20SORCERER%20%7C%20CODE%20ARCHITECT%20%7C%20DIGITAL%20ALCHEMIST%20⚡&descSize=32&descAlign=50&descAlignY=58&stroke=00FFF0&strokeWidth=5" width="100%"/> <!-- EPIC 3D TYPING MATRIX --> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&duration=1200&pause=600&color=00FFF0&center=true&vCenter=true&multiline=true&repeat=true&width=1500&height=280&lines=%F0%9F%8C%8C+REALITY+BENDER+%F0%9F%8C%8C;%F0%9F%92%A0+ARCHITECT+OF+IMPOSSIBLE+%F0%9F%92%A0;%E2%9A%A1+FULL-STACK+WIZARD+%E2%9A%A1;%F0%9F%94%AE+CODE+IS+MY+CANVAS+%F0%9F%94%AE;%E2%9C%A8+INNOVATION+INCARNATE+%E2%9C%A8"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&duration=1200&pause=600&color=00FFF0&center=true&vCenter=true&multiline=true&repeat=true&width=1500&height=280&lines=%F0%9F%8C%8C+REALITY+BENDER+%F0%9F%8C%8C;%F0%9F%92%A0+ARCHITECT+OF+IMPOSSIBLE+%F0%9F%92%A0;%E2%9A%A1+FULL-STACK+WIZARD+%E2%9A%A1;%F0%9F%94%AE+CODE+IS+MY+CANVAS+%F0%9F%94%AE;%E2%9C%A8+INNOVATION+INCARNATE+%E2%9C%A8" alt="Typing Animation" /> </picture> <!-- LEGENDARY STATUS BADGES --> <p align="center"> <img src="https://img.shields.io/badge/⚔️_LEVEL-Legendary_Engineer-00FFF0?style=for-the-badge&labelColor=0a0a0a&logo=starship&logoColor=00FFF0" height="42"/> <img src="https://img.shields.io/badge/🌋_ORIGIN-Lake_Toba_Indonesia-FF0080?style=for-the-badge&labelColor=0a0a0a&logo=google-maps&logoColor=FF0080" height="42"/> <img src="https://img.shields.io/badge/⚡_MODE-Infinite_Innovation-FFD700?style=for-the-badge&labelColor=0a0a0a&logo=lightning&logoColor=FFD700" height="42"/> <img src="https://img.shields.io/badge/🎓_FORGE-Del_Tech_Institute-00FF88?style=for-the-badge&labelColor=0a0a0a&logo=academia&logoColor=00FF88" height="42"/> </p> <!-- INSANE METRICS --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Febri-Silaen&style=for-the-badge&color=blueviolet&label=👁️‍🗨️+REALITY+VIEWERS&abbreviated=true" height="42"/> <img src="https://img.shields.io/github/followers/Febri-Silaen?label=🔥+DISCIPLES&style=for-the-badge&color=00FFF0&labelColor=0a0a0a&logo=github&logoColor=00FFF0" height="42"/> <img src="https://img.shields.io/github/stars/Febri-Silaen?label=⭐+CONSTELLATION&style=for-the-badge&color=FFD700&labelColor=0a0a0a&logo=github&logoColor=FFD700" height="42"/> <img src="https://img.shields.io/badge/🧬_DNA-100%25_CODE-FF0080?style=for-the-badge&labelColor=0a0a0a&logo=dna&logoColor=FF0080" height="42"/> </p> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> </div>
-<!-- ULTIMATE TECH UNIVERSE --> <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/> DIGITAL ARSENAL <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-⚡ FRONTEND DOMINION
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,svelte,redux,tailwind,bootstrap,sass,vite,webpack&perline=15&theme=dark" />
-🔥 BACKEND EMPIRE
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,fastapi,java,spring,php,laravel,c,cpp,cs,dotnet,go&perline=15&theme=dark" />
-💾 DATABASE KINGDOM
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,prisma,graphql,sqlite,cassandra,dynamodb,elasticsearch&perline=15&theme=dark" />
-🎨 DESIGN REALM
-<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,blender,threejs,unity,unreal&perline=15&theme=dark" />
-☁️ DEVOPS GALAXY
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,linux,bash,vim,aws,gcp,azure,vercel,netlify,heroku,jenkins,terraform,ansible,nginx&perline=15&theme=dark" /> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> </div>
-<!-- GODLIKE STATS SECTION --> <div align="center">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"/> POWER METRICS <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"> </div> <!-- MAIN STATS CARDS --> <div align="center"> <a href="https://github.com/Febri-Silaen"> <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Febri-Silaen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a,1a1a2e,16213e&title_color=00FFF0&icon_color=FF0080&text_color=FFFFFF&ring_color=00FFF0&fire_ring=FF0080&border_radius=20&card_width=500"/> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Febri-Silaen&layout=compact&langs_count=20&theme=tokyonight&hide_border=true&bg_color=0a0a0a,1a1a2e,16213e&title_color=00FFF0&text_color=FFFFFF&hide=html,css&border_radius=20&card_width=450"/> </a> </div> <!-- EPIC STREAK --> <div align="center"> <img src="https://streak-stats.demolab.com/?user=Febri-Silaen&theme=tokyonight&hide_border=true&background=0a0a0a,1a1a2e,16213e&ring=00FFF0&fire=FF0080&currStreakLabel=00FFF0&sideLabels=FFD700&dates=FFFFFF&currStreakNum=FF0080&sideNums=00FFF0&border_radius=20&card_width=900" width="90%"/> </div>
-<!-- CONTRIBUTION GRAPH --> <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b44-4b51-abf5-0aa0b9a3f54e.gif" width="50"/> ACTIVITY MATRIX <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b44-4b51-abf5-0aa0b9a3f54e.gif" width="50"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Febri-Silaen&bg_color=0a0a0a&color=00fff0&line=ff0080&point=ffd700&area=true&hide_border=true&custom_title=📊%20ANNUAL%20IMPACT%20MATRIX&area_color=16213e&radius=20&height=400" width="98%"/> </div>
-<!-- TROPHY SHOWCASE --> <div align="center">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"/> LEGEND TROPHIES <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"> <img src="https://github-profile-trophy.vercel.app/?username=Febri-Silaen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A&title=MultiLanguage,Commits,PullRequest,Issues,Repositories,Followers,Stars" width="98%"/> </div>
-<!-- ADVANCED ANALYTICS --> <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/> QUANTUM ANALYTICS <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
-</div> <table align="center" width="100%"> <tr> <td width="50%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Febri-Silaen&theme=tokyonight" width="100%"/> </td> <td width="50%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Febri-Silaen&theme=tokyonight" width="100%"/> </td> </tr> <tr> <td width="50%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Febri-Silaen&theme=tokyonight" width="100%"/> </td> <td width="50%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Febri-Silaen&theme=tokyonight&utcOffset=7" width="100%"/> </td> </tr> <tr> <td colspan="2"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Febri-Silaen&theme=tokyonight" width="100%"/> </td> </tr> </table>
-<!-- SNAKE ANIMATION --> <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"/> CONTRIBUTION VORTEX <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"/>
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"> </picture> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> </div>
-<!-- 2025 MASTER PLAN --> <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b44-4b51-abf5-0aa0b9a3f54e.gif" width="50"/> 2025 DOMINATION BLUEPRINT <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b44-4b51-abf5-0aa0b9a3f54e.gif" width="50"/>
-</div> ```mermaid %%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#00FFF0','primaryTextColor':'#ffffff','primaryBorderColor':'#FF0080','lineColor':'#00FFF0','secondaryColor':'#FF0080','tertiaryColor':'#0a0a0a','fontSize':'18px','fontFamily':'Orbitron'}}}%%
-timeline
-title ⚡ FEBRI'S CONQUEST TIMELINE 2025 ⚡
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=300&section=header&text=Febri%20Silaen&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20|%20UI/UX%20Designer%20|%20Innovator&descAlignY=51&descAlign=50" width="100%"/>
+</p>
 
-section Q1 - FOUNDATION
-    🚀 Master Next.js 15 : Server Actions Mastery : RSC Architecture : Advanced Patterns : Turbopack Integration
-    🏗️ System Architecture : Microservices Design : Event Sourcing : CQRS Implementation : DDD Principles
-    💎 Epic Projects : 10 Production Apps : AI SaaS Platform : Real-time Collab Tools : Crypto Dashboard
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=700&height=100&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%8E%93;UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%92%BB;Innovation+Enthusiast+%F0%9F%9A%80;Building+The+Future+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
-section Q2 - ASCENSION
-    🌟 Open Source Legend : Major Contributions : Community Leadership : 1000+ GitHub Stars : Tech Influencer
-    ☁️ Cloud Mastery : AWS Architect Pro : Multi-Cloud Strategy : Edge Computing : Serverless Expert
-    🚢 Launch Startup : MVP to Market : 10K Users : Revenue Generation : Angel Funding
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-58a6ff?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lives-Lake%20Toba,%20Indonesia-58a6ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Studies-Del%20Institute-58a6ff?style=for-the-badge&logo=googlescholar&logoColor=white" />
+</p>
 
-section Q3 - INNOVATION
-    🤖 AI Revolution : ML Model Training : LLM Integration : Computer Vision : Neural Networks : RAG Systems
-    ⚡ Performance God : Sub-second Loading : Advanced Caching : CDN Optimization : Database Sharding
-    🎤 Tech Evangelist : International Speaker : Conference Keynotes : YouTube Channel : Course Creator
+<table>
+<tr>
+<td width="50%" valign="top">
 
-section Q4 - DOMINATION
-    👑 Engineering Leader : CTO Position : Team Scaling : Tech Strategy : Innovation Lab : Patent Filing
-    🌌 Web3 Pioneer : Blockchain Development : Smart Contracts : DeFi Platform : NFT Marketplace
-    🏆 Industry Impact : Forbes 30 Under 30 : Tech Awards : Startup Unicorn : Global Recognition
+## 🚀 About Me
+
+```javascript
+const febriSilaen = {
+    pronouns: "he" | "him",
+    location: "Lake Toba, Indonesia 🇮🇩",
+    education: "Del Institute of Technology",
+    role: "Software Engineering & UI/UX Student",
+    
+    code: [
+        "JavaScript", "Python", 
+        "Java", "PHP", "C"
+    ],
+    
+    passion: [
+        "Developing impactful solutions",
+        "Mastering software development",
+        "Embracing cutting-edge technologies"
+    ],
+    
+    currentFocus: "Building scalable applications",
+    ambition: "Lead innovation in tech industry",
+    mindset: "Exceptional engineers tackle challenges with creativity",
+    
+    motto: "Bertahan dalam hidup, tak selalu berarti dirimu kuat 💪",
+    funFact: "Coffee ☕ → Code 💻 → Innovation 🚀"
+};
+```
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="100%" alt="Coding">
+
+### 🛠️ Technologies
+
+**Frontend:** React • HTML5 • CSS3 • TailwindCSS • Vite
+
+**Backend:** Laravel • Apache • PHP
+
+**Database:** MySQL • PostgreSQL • MariaDB
+
+**Design:** Figma • Canva
+
+**Cloud & Tools:** Google Cloud • Git • GitHub • Anaconda
+
+**Languages:** JavaScript • Python • Java • PHP • C
+
+</td>
+</tr>
+</table>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://facebook.com/febri.silaen" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/febri.silaen" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/febri-silaen" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:febri@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Febri-Silaen" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
 
 ---
 
-<!-- PHILOSOPHY SECTION -->
+## 💻 Tech Stack Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,css,js,java,python,php,html,react,laravel,tailwind,vite,mysql,postgres,figma,git,github,vscode,anaconda,apache,gcp&perline=10" />
+</p>
+
+<details>
+<summary><b>🔥 Click to see detailed tech stack</b></summary>
+<br>
+
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### ⚙️ Backend Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</details>
+
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  GitHub Statistics & Achievements
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  
+| <img src="https://github-readme-stats.vercel.app/api?username=Febri-Silaen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats"/> | <img src="https://streak-stats.demolab.com/?user=Febri-Silaen&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="100%" alt="GitHub Streak"/> |
+|---|---|
+
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Febri-Silaen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="100%" alt="Top Languages"/> | <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Febri-Silaen&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact" width="100%" alt="Coding Stats"/> |
+|---|---|
+
+</div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Febri-Silaen&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="95%" alt="Activity Graph"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
+  GitHub Trophies Collection
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
+</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Febri-Silaen&theme=algolia&no-frame=true&no-bg=false&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
+
+---
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
+  Top Contributed Repositories
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
+</h2>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Febri-Silaen&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Contributed Repo" width="80%"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
+
+---
+
+<h2 align="center">📈 Detailed Contribution Overview</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Febri-Silaen&theme=react-dark&hide_border=true&area=true&custom_title=Annual%20Contribution%20Activity" alt="Contribution Graph" width="95%"/>
+</p>
+
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/> CODE PHILOSOPHY <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>
-```typescript
-// THE FEBRI DOCTRINE
-class DigitalAlchemist {
-  private readonly essence = {
-    mission: "Transform impossibilities into reality",
-    vision: "Code that transcends boundaries",
-    philosophy: "Bertahan dalam hidup, tak selalu berarti dirimu kuat 💪",
-    approach: "Innovation through elegant simplicity"
-  };
+### 📊 Additional Stats
 
-  async transformReality(): Promise<void> {
-    while (this.alive) {
-      await this.innovate();
-      await this.inspire();
-      await this.impact();
-    }
-  }
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Febri-Silaen&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Febri-Silaen&theme=tokyonight) |
+|---|---|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Febri-Silaen&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Febri-Silaen&theme=tokyonight&utcOffset=7) |
 
-  private cultivate = {
-    excellence: "Every line of code is a work of art",
-    impact: "Build solutions that change lives",
-    growth: "Learn, adapt, evolve, dominate",
-    legacy: "Leave the codebase better than you found it"
-  };
-}
+</div>
 
-// 🌌 THE MANIFESTO
-console.log("🔥 Great engineers don't follow trends");
-console.log("   They CREATE them.");
-console.log("⚡ Code is poetry in motion.");
-console.log("✨ Innovation is not an option, it's oxygen.");
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> </div>
-<!-- CONNECT SECTION --> <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50"/> ENTER MY UNIVERSE <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-🌐 CONTACT PROTOCOLS
-<p align="center"> <a href="mailto:febri@gmail.com"> <img src="https://img.shields.io/badge/📧_Email-febri@gmail.com-00FFF0?style=for-the-badge&labelColor=0a0a0a&logo=gmail&logoColor=00FFF0" height="45"/> </a> <a href="https://github.com/Febri-Silaen"> <img src="https://img.shields.io/badge/💻_GitHub-Febri--Silaen-FF0080?style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=FF0080" height="45"/> </a> <a href="https://linkedin.com/in/febri-silaen"> <img src="https://img.shields.io/badge/🔗_LinkedIn-Connect-FFD700?style=for-the-badge&labelColor=0a0a0a&logo=linkedin&logoColor=FFD700" height="45"/> </a> </p>
-⚡ COLLABORATION MODES
-<p align="center"> <img src="https://img.shields.io/badge/🤝_Open_For-Collaborations-00FFF0?style=for-the-badge&labelColor=0a0a0a" height="40"/> <img src="https://img.shields.io/badge/💼_Available_For-Full--Time-FF0080?style=for-the-badge&labelColor=0a0a0a" height="40"/> <img src="https://img.shields.io/badge/🎤_Speaking_At-Tech_Events-FFD700?style=for-the-badge&labelColor=0a0a0a" height="40"/> <img src="https://img.shields.io/badge/🚀_Building-Next_Big_Thing-00FF88?style=for-the-badge&labelColor=0a0a0a" height="40"/> </p> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=200&section=footer&text=⚡%20THANKS%20FOR%20VISITING%20⚡&fontSize=50&fontColor=00FFF0&animation=twinkling&fontAlignY=70" width="100%"/> <p align="center"> <img src="https://img.shields.io/badge/Made_With-❤️_And_☕-FF0080?style=for-the-badge&labelColor=0a0a0a" height="40"/> <img src="https://img.shields.io/badge/Status-Coding_The_Future-00FFF0?style=for-the-badge&labelColor=0a0a0a" height="40"/> </p> </div>
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
+
+---
+
+<h2 align="center">🎯 Current Goals & Learning Path</h2>
+
+```mermaid
+graph LR
+    A[🎓 Learning] -->|Master| B[Advanced React]
+    A -->|Study| C[System Design]
+    A -->|Explore| D[Cloud Architecture]
+    
+    E[💼 Building] -->|Create| F[Full-Stack Apps]
+    E -->|Design| G[UI/UX Projects]
+    E -->|Contribute| H[Open Source]
+    
+    I[🚀 Goals 2025] -->|Achieve| J[Master Full-Stack]
+    I -->|Accomplish| K[OSS Contributor]
+    I -->|Build| L[Impactful Products]
+```
+
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
+
+---
+
+<h2 align="center">💭 Random Dev Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
+
+---
+
+<h2 align="center">🎮 When I'm Not Coding</h2>
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
+</p>
+
+<p align="center">
+  <em>🎵 Currently vibing to some great music while coding!</em>
+</p>
+
+<br>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Febri-Silaen&label=Profile%20Views&color=58a6ff&icon=5&pretty=true" alt="Profile Views"/>
+</p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%E2%AD%90+Thanks+for+visiting!+%E2%AD%90;%F0%9F%92%99+Let's+innovate+together!+%F0%9F%92%99;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time!+%F0%9F%9A%80" alt="Closing Message" />
+</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=150&section=footer&animation=twinkling" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</p>
+
+---
+
+<p align="center">Made with ❤️ by <a href="https://github.com/Febri-Silaen">Febri Silaen</a></p>
+<p align="center">⚡ Powered by passion, coffee, and countless commits ⚡</p>
