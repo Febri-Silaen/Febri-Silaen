@@ -19,23 +19,31 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 🚀 About Me
-
-```typescript
+```javascript
 const febriSilaen = {
+    pronouns: "he" | "him",
     location: "Lake Toba, Indonesia 🇮🇩",
     education: "Del Institute of Technology",
     role: "Software Engineering & UI/UX Student",
+    
+    code: [
+        "JavaScript", "Python", 
+        "Java", "PHP", "C"
+    ],
+    
     passion: [
         "Developing impactful solutions",
         "Mastering software development",
         "Embracing cutting-edge technologies"
     ],
-    mindset: "Exceptional engineers tackle real-world challenges with creativity",
-    ambition: "Lead innovation in tech industry through meaningful contributions",
-    currentFocus: "Building scalable applications with modern tech stack",
-    funFact: "Bertahan dalam hidup, tak selalu berarti dirimu kuat 💪"
+    
+    currentFocus: "Building scalable applications",
+    ambition: "Lead innovation in tech industry",
+    mindset: "Exceptional engineers tackle challenges with creativity",
+    
+    motto: "Bertahan dalam hidup, tak selalu berarti dirimu kuat 💪",
+    funFact: "Coffee ☕ → Code 💻 → Innovation 🚀"
 };
-```
 ```
 
 <br clear="both">
