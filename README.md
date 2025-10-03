@@ -196,29 +196,7 @@ timeline
         👑 Engineering Leader : CTO Position : Team Scaling : Tech Strategy : Innovation Lab : Patent Filing
         🌌 Web3 Pioneer : Blockchain Development : Smart Contracts : DeFi Platform : NFT Marketplace
         🏆 Industry Impact : Forbes 30 Under 30 : Tech Awards : Startup Unicorn : Global Recognition
-```
 
----
-
-// 🌌 THE MANIFESTO
-console.log("🔥 Great engineers don't follow trends");
-console.log("   They CREATE them.");
-console.log("⚡ Code is poetry in motion.");
-console.log("✨ Innovation is not an option, it's oxygen.");
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div>
-
----
-
-<!-- CONNECT SECTION -->
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50"/> ENTER MY UNIVERSE <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 
 ### 🌐 CONTACT PROTOCOLS
 
