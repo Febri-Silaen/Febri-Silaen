@@ -16,9 +16,12 @@
   <img src="https://img.shields.io/badge/Studies-Del%20Institute-58a6ff?style=for-the-badge&logo=googlescholar&logoColor=white" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 🚀 About Me
+
 ```javascript
 const febriSilaen = {
     pronouns: "he" | "him",
@@ -46,7 +49,28 @@ const febriSilaen = {
 };
 ```
 
-<br clear="both">
+</td>
+<td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="100%" alt="Coding">
+
+### 🛠️ Technologies
+
+**Frontend:** React • HTML5 • CSS3 • TailwindCSS • Vite
+
+**Backend:** Laravel • Apache • PHP
+
+**Database:** MySQL • PostgreSQL • MariaDB
+
+**Design:** Figma • Canva
+
+**Cloud & Tools:** Google Cloud • Git • GitHub • Anaconda
+
+**Languages:** JavaScript • Python • Java • PHP • C
+
+</td>
+</tr>
+</table>
 
 ## 🌐 Connect With Me
 
@@ -189,12 +213,18 @@ const febriSilaen = {
 <h2 align="center">📈 Detailed Contribution Overview</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Febri-Silaen&theme=react-dark&hide_border=true&area=true&custom_title=Annual%20Contribution%20Overview&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff" alt="Contribution Graph" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Febri-Silaen&theme=react-dark&hide_border=true&area=true&custom_title=Annual%20Contribution%20Activity" alt="Contribution Graph" width="95%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Febri-Silaen&theme=tokyonight" width="98%" alt="Profile Details"/>
-</p>
+<div align="center">
+
+### 📊 Additional Stats
+
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Febri-Silaen&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Febri-Silaen&theme=tokyonight) |
+|---|---|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Febri-Silaen&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Febri-Silaen&theme=tokyonight&utcOffset=7) |
+
+</div>
 
 <br>
 
@@ -246,7 +276,11 @@ graph LR
 <h2 align="center">🎮 When I'm Not Coding</h2>
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=5&unique=true" alt="Spotify Recently Played" width="400"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
+</p>
+
+<p align="center">
+  <em>🎵 Currently vibing to some great music while coding!</em>
 </p>
 
 <br>
