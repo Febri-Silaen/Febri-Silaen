@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/Febri-Silaen.png" width="180px" style="border-radius: 50%; border: 5px solid #58a6ff; box-shadow: 0 0 30px rgba(88, 166, 255, 0.6);" alt="Febri Silaen"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=700&height=100&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%8E%93;UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%92%BB;Innovation+Enthusiast+%F0%9F%9A%80;Building+The+Future+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
@@ -17,6 +21,8 @@
 <td width="50%" valign="top">
 
 ## 🚀 About Me
+
+```javascript
 const febriSilaen = {
     pronouns: "he" | "him",
     location: "Lake Toba, Indonesia 🇮🇩",
