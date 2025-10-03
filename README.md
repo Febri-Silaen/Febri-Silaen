@@ -1,4 +1,8 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Febri Silaen
+<p align="center">
+  <img src="https://github.com/Febri-Silaen.png" width="200px" style="border-radius: 50%; border: 4px solid #58a6ff;" alt="Febri Silaen"/>
+</p>
+
+# <p align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Febri Silaen</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;UI%2FUX+Designer;Full+Stack+Developer;Passionate+About+Innovation" alt="Typing SVG" />
@@ -99,7 +103,20 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Febri-Silaen&theme=react-dark&hide_border=true&area=true&custom_title=Annual%20Contribution%20Overview" alt="Detailed Contribution Graph" width="95%"/>
 </p>
 
+---
 
+## 🎯 Current Focus
+
+```javascript
+const febriSilaen = {
+    currentlyLearning: ["Advanced React", "System Design", "Cloud Architecture"],
+    workingOn: ["Full-Stack Projects", "UI/UX Design", "Open Source"],
+    goals2025: ["Master Full-Stack Development", "Contribute to Open Source", "Build Impactful Products"],
+    askMeAbout: ["Web Dev", "UI/UX Design", "Database Design", "Problem Solving"]
+};
+```
+
+---
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -118,12 +135,3 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Febri-Silaen&icon=5&color=58a6ff" alt="Profile Views"/>
 </p>
-
-<h3 align="center">⭐️ From <a href="https://github.com/Febri-Silaen">Febri-Silaen</a></h3>
-<p align="center">💙 Let's innovate and build the future together! 🚀</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=100&section=footer" width="100%"/>
-</p>
-
-<!-- Proudly created with passion 💻 -->
