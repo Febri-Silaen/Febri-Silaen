@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/Febri-Silaen.png" width="180px" style="border-radius: 50%; border: 5px solid #58a6ff; box-shadow: 0 0 30px rgba(88, 166, 255, 0.6);" alt="Febri Silaen"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=700&height=100&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%8E%93;UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%92%BB;Innovation+Enthusiast+%F0%9F%9A%80;Building+The+Future+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
@@ -123,18 +127,18 @@ const febriSilaen = {
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 </h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Febri-Silaen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true&border_radius=10" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Febri-Silaen&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=10" width="49%" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  
+| <img src="https://github-readme-stats.vercel.app/api?username=Febri-Silaen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats"/> | <img src="https://streak-stats.demolab.com/?user=Febri-Silaen&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="100%" alt="GitHub Streak"/> |
+|---|---|
+
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Febri-Silaen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="100%" alt="Top Languages"/> | <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Febri-Silaen&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact" width="100%" alt="Coding Stats"/> |
+|---|---|
+
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Febri-Silaen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&border_radius=10&card_width=400" width="49%" alt="Top Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Febri-Silaen&theme=tokyonight&utcOffset=7" width="49%" alt="Productive Time"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Febri-Silaen&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&border_radius=10&custom_title=Contribution%20Activity%20Graph" width="98%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Febri-Silaen&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="95%" alt="Activity Graph"/>
 </p>
 
 <br>
