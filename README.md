@@ -269,11 +269,16 @@ graph LR
 
 ---
 
-<h2 align="center">🎮 When I'm Not Coding</h2>
+🐍 WATCH MY CONTRIBUTIONS GET EATEN!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Febri-Silaen/Febri-Silaen/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Febri-Silaen/Febri-Silaen/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Febri-Silaen/Febri-Silaen/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
-</p>
+<!-- PINNED REPOS -->
+<div align="center">
 
 <p align="center">
   <em>🎵 Currently vibing to some great music while coding!</em>
