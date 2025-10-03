@@ -99,20 +99,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Febri-Silaen&theme=react-dark&hide_border=true&area=true&custom_title=Annual%20Contribution%20Overview" alt="Detailed Contribution Graph" width="95%"/>
 </p>
 
----
 
-## 🎯 Current Focus
-
-```javascript
-const febriSilaen = {
-    currentlyLearning: ["Advanced React", "System Design", "Cloud Architecture"],
-    workingOn: ["Full-Stack Projects", "UI/UX Design", "Open Source"],
-    goals2025: ["Master Full-Stack Development", "Contribute to Open Source", "Build Impactful Products"],
-    askMeAbout: ["Web Dev", "UI/UX Design", "Database Design", "Problem Solving"]
-};
-```
-
----
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
