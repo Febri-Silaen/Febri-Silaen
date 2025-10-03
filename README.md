@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Febri Silaen
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;UI%2FUX+Designer;Passionate+About+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;UI%2FUX+Designer;Full+Stack+Developer;Passionate+About+Innovation" alt="Typing SVG" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -62,18 +62,81 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Febri-Silaen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Febri-Silaen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Febri-Silaen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Febri-Silaen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h2 align="center">📊 GitHub Statistics & Achievements</h2>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Febri-Silaen&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Febri-Silaen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Febri-Silaen&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Febri-Silaen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="49%" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Febri-Silaen&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&custom_title=Contribution%20Activity" width="49%" alt="Activity Graph"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Febri-Silaen&icon=9&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">🏆 GitHub Trophies Collection</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Febri-Silaen&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+</p>
+
+---
+
+<h2 align="center">🔥 Top Contributed Repositories</h2>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Febri-Silaen&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Contributed Repo" width="70%"/>
+</p>
+
+---
+
+<h2 align="center">📈 Detailed Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Febri-Silaen&theme=react-dark&hide_border=true&area=true&custom_title=Annual%20Contribution%20Overview" alt="Detailed Contribution Graph" width="95%"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const febriSilaen = {
+    currentlyLearning: ["Advanced React", "System Design", "Cloud Architecture"],
+    workingOn: ["Full-Stack Projects", "UI/UX Design", "Open Source"],
+    goals2025: ["Master Full-Stack Development", "Contribute to Open Source", "Build Impactful Products"],
+    askMeAbout: ["Web Dev", "UI/UX Design", "Database Design", "Problem Solving"]
+};
+```
+
+---
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<h2 align="center">💭 Random Developer Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Febri-Silaen&icon=5&color=58a6ff" alt="Profile Views"/>
+</p>
+
+<h3 align="center">⭐️ From <a href="https://github.com/Febri-Silaen">Febri-Silaen</a></h3>
+<p align="center">💙 Let's innovate and build the future together! 🚀</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=100&section=footer" width="100%"/>
+</p>
+
+<!-- Proudly created with passion 💻 -->
