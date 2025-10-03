@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- ULTIMATE HERO SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=450&section=header&text=FEBRI%20SILAEN&fontSize=140&fontAlign=50&fontAlignY=38&animation=twinkling&fontColor=gradient&desc=⚡%20FULL-STACK%20SORCERER%20%7C%20CODE%20ARCHITECT%20%7C%20DIGITAL%20ALCHEMIST%20⚡&descSize=32&descAlign=50&descAlignY=58&stroke=00FFF0&strokeWidth=5" width="100%"/>
 
 <!-- EPIC 3D TYPING MATRIX -->
 <picture>
@@ -201,37 +199,6 @@ timeline
 ```
 
 ---
-
-<!-- PHILOSOPHY SECTION -->
-<div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/> CODE PHILOSOPHY <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>
-
-```typescript
-// THE FEBRI DOCTRINE
-class DigitalAlchemist {
-  private readonly essence = {
-    mission: "Transform impossibilities into reality",
-    vision: "Code that transcends boundaries",
-    philosophy: "Bertahan dalam hidup, tak selalu berarti dirimu kuat 💪",
-    approach: "Innovation through elegant simplicity"
-  };
-
-  async transformReality(): Promise<void> {
-    while (this.alive) {
-      await this.innovate();
-      await this.inspire();
-      await this.impact();
-    }
-  }
-
-  private cultivate = {
-    excellence: "Every line of code is a work of art",
-    impact: "Build solutions that change lives",
-    growth: "Learn, adapt, evolve, dominate",
-    legacy: "Leave the codebase better than you found it"
-  };
-}
 
 // 🌌 THE MANIFESTO
 console.log("🔥 Great engineers don't follow trends");
