@@ -20,29 +20,22 @@
 
 ## 🚀 About Me
 
-```javascript
+```typescript
 const febriSilaen = {
-    pronouns: "he" | "him",
-    location: "Lake Toba 🏔️ Indonesia 🇮🇩",
+    location: "Lake Toba, Indonesia 🇮🇩",
     education: "Del Institute of Technology",
     role: "Software Engineering & UI/UX Student",
-    
-    code: ["JavaScript", "Python", "Java", "PHP", "C"],
-    technologies: {
-        frontEnd: ["React", "HTML5", "CSS3", "TailwindCSS"],
-        backEnd: ["Laravel", "Apache"],
-        databases: ["MySQL", "PostgreSQL", "MariaDB"],
-        design: ["Figma", "Canva"],
-        cloud: ["Google Cloud"],
-        tools: ["Git", "GitHub", "Vite", "Anaconda"]
-    },
-    
-    currentFocus: "Building scalable & impactful solutions",
-    passion: "Innovation through cutting-edge technologies",
-    motto: "Bertahan dalam hidup, tak selalu berarti dirimu kuat 💪",
-    
-    funFact: "I turn coffee into code ☕ → 💻 → 🚀"
+    passion: [
+        "Developing impactful solutions",
+        "Mastering software development",
+        "Embracing cutting-edge technologies"
+    ],
+    mindset: "Exceptional engineers tackle real-world challenges with creativity",
+    ambition: "Lead innovation in tech industry through meaningful contributions",
+    currentFocus: "Building scalable applications with modern tech stack",
+    funFact: "Bertahan dalam hidup, tak selalu berarti dirimu kuat 💪"
 };
+```
 ```
 
 <br clear="both">
