@@ -128,12 +128,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<!-- 3D CONTRIBUTION CALENDAR -->
+<!-- MEGA CONTRIBUTION VISUALIZATION -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **3D CONTRIBUTION UNIVERSE** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **MEGA CONTRIBUTION SHOWCASE** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-<img src="https://github-profile-3d-contrib.vercel.app/api/Febri-Silaen?username=Febri-Silaen&theme=radical&animation=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&grid_color=00D9FF20&area_color=00D9FF&line_color=00D9FF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Febri-Silaen&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&title_color=00D9FF&custom_title=📊+FULL+YEAR+CONTRIBUTION+ACTIVITY&height=400&area_color=00D9FF30" width="100%"/>
 
 </div>
 
@@ -142,12 +142,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<!-- INTERACTIVE HEATMAP -->
+<!-- COMMIT CALENDAR -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> **CONTRIBUTION HEATMAP** <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> **ANNUAL COMMIT CALENDAR** <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
 
-<img src="https://ghchart.rshah.org/00D9FF/Febri-Silaen" alt="GitHub Contribution Chart" width="100%"/>
+<img src="https://ghchart.rshah.org/00D9FF/Febri-Silaen" alt="Febri's GitHub Contribution Chart" width="100%"/>
 
 </div>
 
@@ -156,16 +156,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<!-- SKYLINE CONTRIBUTION -->
+<!-- PROFILE SUMMARY -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> **3D CITY SKYLINE** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> **PROFILE OVERVIEW** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
 
-<img src="https://skyline.github.com/Febri-Silaen/2024.png" alt="GitHub Skyline 2024" width="100%"/>
-
-<br>
-
-**🏙️ Every contribution builds your city! Download your 3D skyline at [skyline.github.com](https://skyline.github.com/Febri-Silaen/2024)**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Febri-Silaen&theme=radical&hide_border=true" width="100%"/>
 
 </div>
 
