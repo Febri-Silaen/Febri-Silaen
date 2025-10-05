@@ -142,76 +142,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<!-- COMMIT CALENDAR WITH ANIMATIONS -->
+<!-- COMMIT CALENDAR -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> **DYNAMIC CONTRIBUTION MATRIX** <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> **ANNUAL COMMIT CALENDAR** <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
 
-<table>
-<tr>
-<td width="50%">
-
-### 🔥 **HEATMAP CALENDAR**
-<img src="https://ghchart.rshah.org/00D9FF/Febri-Silaen" alt="Contribution Calendar" width="100%"/>
-
-</td>
-<td width="50%">
-
-### ⚡ **COMMIT FREQUENCY**
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Febri-Silaen&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&custom_title=⚡+Coding+Activity" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ANIMATED WAVE GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Febri-Silaen&theme=high-contrast&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=🌊+CONTRIBUTION+WAVE+PATTERN&height=300" width="100%"/>
-
-<br>
-
-<!-- ANIMATED PUNCH CARD -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Febri-Silaen&theme=radical&hide_border=true" width="100%"/>
-
-<br>
-
-<!-- COOL ASCII ART STYLE CALENDAR -->
-<details>
-<summary><b>🎮 CLICK TO SEE RETRO GAME STYLE COMMITS!</b></summary>
-
-<br>
-
-```
-                    LEVEL UP YOUR COMMITS! 🎮
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│   ████████╗ ██╗  ██╗ ███████╗                            │
-│   ╚══██╔══╝ ██║  ██║ ██╔════╝                            │
-│      ██║    ███████║ █████╗                              │
-│      ██║    ██╔══██║ ██╔══╝                              │
-│      ██║    ██║  ██║ ███████╗                            │
-│      ╚═╝    ╚═╝  ╚═╝ ╚══════╝                            │
-│                                                            │
-│         ██████╗  ██████╗  ██████╗  ███████╗              │
-│        ██╔════╝ ██╔═══██╗ ██╔══██╗ ██╔════╝              │
-│        ██║      ██║   ██║ ██║  ██║ █████╗                │
-│        ██║      ██║   ██║ ██║  ██║ ██╔══╝                │
-│        ╚██████╗ ╚██████╔╝ ██████╔╝ ███████╗              │
-│         ╚═════╝  ╚═════╝  ╚═════╝  ╚══════╝              │
-│                                                            │
-│  🎯 COMMIT STREAK: ████████████████░░░░░░  80%            │
-│  🔥 CODE POWER:    ███████████████████░░░  95%            │
-│  ⚡ CODING SPEED:  ██████████████████████ 100%            │
-│  🚀 INNOVATION:    ████████████████████░░  90%            │
-│                                                            │
-│  Press START to continue coding...                        │
-└────────────────────────────────────────────────────────────┘
-
-        💾 SAVE YOUR PROGRESS WITH EVERY COMMIT! 💾
-```
-
-</details>
+<img src="https://ghchart.rshah.org/00D9FF/Febri-Silaen" alt="Febri's GitHub Contribution Chart" width="100%"/>
 
 </div>
 
