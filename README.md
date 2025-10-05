@@ -128,16 +128,44 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<!-- CONTRIBUTION SNAKE -->
+<!-- 3D CONTRIBUTION CALENDAR -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **CONTRIBUTION SNAKE** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **3D CONTRIBUTION UNIVERSE** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Febri-Silaen/Febri-Silaen/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Febri-Silaen/Febri-Silaen/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Febri-Silaen/Febri-Silaen/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<img src="https://github-profile-3d-contrib.vercel.app/api/Febri-Silaen?username=Febri-Silaen&theme=radical&animation=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&grid_color=00D9FF20&area_color=00D9FF&line_color=00D9FF" width="100%"/>
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<!-- INTERACTIVE HEATMAP -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> **CONTRIBUTION HEATMAP** <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
+
+<img src="https://ghchart.rshah.org/00D9FF/Febri-Silaen" alt="GitHub Contribution Chart" width="100%"/>
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<!-- SKYLINE CONTRIBUTION -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> **3D CITY SKYLINE** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
+
+<img src="https://skyline.github.com/Febri-Silaen/2024.png" alt="GitHub Skyline 2024" width="100%"/>
+
+<br>
+
+**🏙️ Every contribution builds your city! Download your 3D skyline at [skyline.github.com](https://skyline.github.com/Febri-Silaen/2024)**
 
 </div>
 
