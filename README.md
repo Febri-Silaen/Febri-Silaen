@@ -60,13 +60,9 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"/> 3️⃣ CONTRIBUTION SNAKE <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"/>
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"/> 3️⃣ CONTRIBUTION SNAKE 🐍 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Febri-Silaen/Febri-Silaen/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Febri-Silaen/Febri-Silaen/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Febri-Silaen/Febri-Silaen/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://raw.githubusercontent.com/Febri-Silaen/Febri-Silaen/output/github-contribution-grid-snake-dark.svg)
 
 <br><br>
 
@@ -86,9 +82,9 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"/> 5️⃣ TROPHY COLLECTION <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"/>
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"/> 5️⃣ TROPHY COLLECTION 🏆 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Febri-Silaen&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%"/>
+![trophy](https://github-profile-trophy.vercel.app/?username=Febri-Silaen&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
 <br><br>
 
