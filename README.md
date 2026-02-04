@@ -11,7 +11,7 @@
 
 <!-- PROFILE BADGE -->
 <img src="https://img.shields.io/badge/STATUS-ONLINE%20%26%20CODING-00ff41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=00ff41&label=MATRIX+VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=Febri-Silaen&style=for-the-badge&color=00ff41&label=MATRIX+VISITORS"/>
 
 <br><br>
 
@@ -75,12 +75,12 @@
 </h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff88&text_color=00ffff&ring_color=00ff41"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Febri-Silaen&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff88&text_color=00ffff&ring_color=00ff41"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Febri-Silaen&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ffff"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff88&fire=00ffff&currStreakLabel=00ff41&sideNums=00ffff&currStreakNum=00ff88&dates=00ffff&sideLabels=00ff41" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Febri-Silaen&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff88&fire=00ffff&currStreakLabel=00ff41&sideNums=00ffff&currStreakNum=00ff88&dates=00ffff&sideLabels=00ff41" alt="GitHub Streak"/>
 </p>
 
 <br>
@@ -95,9 +95,9 @@
 </h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Febri-Silaen/Febri-Silaen/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Febri-Silaen/Febri-Silaen/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Febri-Silaen/Febri-Silaen/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br><br>
@@ -111,7 +111,7 @@
   4️⃣ ACTIVITY GRAPH <span style="color: #00ff41;">📈</span>
 </h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=00ff41&line=00ff88&point=00ffff&area=true&hide_border=true&custom_title=CONTRIBUTION%20MATRIX" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Febri-Silaen&bg_color=0d1117&color=00ff41&line=00ff88&point=00ffff&area=true&hide_border=true&custom_title=CONTRIBUTION%20MATRIX" width="100%"/>
 
 <br>
 
@@ -125,7 +125,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Febri-Silaen&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </p>
 
 <br>
@@ -140,19 +140,19 @@
 </h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/febri-silaen">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=00ff41"/>
   </a>
-  <a href="https://twitter.com/yourhandle">
+  <a href="https://twitter.com/febrisilaen">
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117&color=00ff88"/>
   </a>
-  <a href="https://instagram.com/yourhandle">
+  <a href="https://instagram.com/febrisilaen">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117&color=00ffff"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:febri.silaen@example.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=00ff41"/>
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://febrisilaen.com">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117&color=00ff88"/>
   </a>
 </p>
@@ -197,7 +197,7 @@
   
 ### ⚡ QUICK STATS
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=chartreuse_dark" width="900"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Febri-Silaen&theme=chartreuse_dark" width="900"/>
 
 <br>
 
@@ -224,33 +224,3 @@
 <img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-00ffff?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
-
-<!-- MATRIX RAIN EFFECT (Optional: Add to your profile using GitHub Actions) -->
-<!-- 
-To add the contribution snake animation, create .github/workflows/snake.yml:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: yourusername
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          svg_out_path_dark: dist/github-contribution-grid-snake-dark.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
