@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- ██████████████████ ANIMATED HEADER ██████████████████ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003300,70:00ff41,100:0d1117&height=230&section=header&text=FEBRI%20SILAEN&fontSize=58&fontColor=00ff41&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20UI%2FUX%20Designer%20%7C%20Digital%20Architect&descSize=18&descAlignY=58&descColor=ffffff"/>
 
