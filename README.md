@@ -1,19 +1,19 @@
 <div align="center">
 
-<!-- ══════════════ ANIMATED HEADER ══════════════ -->
+<!-- ██████████████████ ANIMATED HEADER ██████████████████ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003300,70:00ff41,100:0d1117&height=230&section=header&text=FEBRI%20SILAEN&fontSize=58&fontColor=00ff41&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20UI%2FUX%20Designer%20%7C%20Digital%20Architect&descSize=18&descAlignY=58&descColor=ffffff"/>
 
-<!-- ══════════════ TYPING ANIMATION ══════════════ -->
+<!-- ██████████████████ TYPING ANIMATION ██████████████████ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&repeat=true&width=820&height=65&lines=%F0%9F%8F%97%EF%B8%8F+Building+Digital+Systems+that+Matter;%F0%9F%8E%A8+Crafting+UX+that+Humans+Love;%F0%9F%8F%86+GEMASTIK+%7C+PKM+%7C+Pilmapres+%7C+MCC;%F0%9F%8C%90+From+North+Sumatra+to+the+Digital+World;%E2%9A%A1+Every+Line+of+Code+Counts" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&repeat=true&width=820&height=65&lines=%F0%9F%8F%97%EF%B8%8F+Building+Digital+Systems+that+Matter;%F0%9F%8E%A8+Crafting+UX+that+Humans+Love;%F0%9F%8F%86+17%2B+National+%26+International+Awards;%F0%9F%8C%90+From+North+Sumatra+to+the+Digital+World;%E2%9A%A1+Every+Line+of+Code+Counts" alt="Typing SVG"/>
 </a>
 
 <br>
 
-<!-- ══════════════ STATUS BADGES ══════════════ -->
+<!-- ██████████████████ STATUS BADGES ██████████████████ -->
 ![Status](https://img.shields.io/badge/STATUS-BUILDING%20THE%20FUTURE-00ff41?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117)
 ![Views](https://komarev.com/ghpvc/?username=Febri-Silaen&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS&labelColor=0d1117)
-![Open](https://img.shields.io/badge/OPEN%20TO-COLLABORATION-00ff88?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0d1117)
+![Awards](https://img.shields.io/badge/AWARDS-17%2B%20PRESTASI-00ff88?style=for-the-badge&logo=trophy&logoColor=white&labelColor=0d1117)
 
 <br>
 
@@ -23,16 +23,46 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px"> &nbsp;TENTANG SAYA
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px"> &nbsp;`< TENTANG SAYA />`
 
-- 🎓 **D4 Teknologi Rekayasa Perangkat Lunak** — Institut Teknologi Del, Laguboti · NIM **41424040**
-- 🏛️ **MPM Komisi E** IT Del 2025/2026 — Badan Legislatif Mahasiswa
-- 🏆 **Pilmapres Juara I Diploma** IT Del · Finalis LLDikti Wilayah I 2026
-- 🎯 **GEMASTIK XVIII** UX Design · **MCC 2026** Juara Terfavorit · **PKM-KC 2025** Submitted
-- 🌐 Dari **Laguboti, Sumatera Utara** — membangun teknologi untuk Indonesia yang lebih baik
-- 💡 Spesialisasi: *child protection tech · regional governance · agro-digital · UI/UX research*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br>
+**🎓 IDENTITAS**
+
+```yaml
+nama      : Febri Silaen
+nim       : 41424040
+prodi     : D4 Teknologi Rekayasa Perangkat Lunak
+kampus    : Institut Teknologi Del
+lokasi    : Laguboti, Sumatera Utara
+status    : Aktif · Semester Akhir (PA2)
+```
+
+**🏛️ ORGANISASI AKTIF**
+- `MPM Komisi E` — IT Del 2025/2026
+- `Agen Statistik` — BPS Kabupaten Toba 2026
+- `GDGoC` — USU & Esa Unggul Member
+
+</td>
+<td width="50%" valign="top">
+
+**⚡ HIGHLIGHT PRESTASI**
+
+```diff
++ 🥇 Juara I Mahasiswa Terbaik IT Del 2026
++ 🥇 Juara I Diploma Pilmapres IT Del 2026
++ 🌏 Finalist ISS 2026 — Internasional
++ 🥈 Silver Medal PIN Nasional 2025
++ 🥉 Bronze Medal PENA Nasional 2025
++ 🏅 MCC 2026 — Juara Terfavorit
++ 🎯 17+ Prestasi Nasional & Internasional
+```
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -42,6 +72,15 @@
 > **— Febri Silaen**
 
 </div>
+
+**💡 SPESIALISASI**
+
+![UX](https://img.shields.io/badge/UI%2FUX%20Research-00ff41?style=flat-square&labelColor=0d1117)
+![Child](https://img.shields.io/badge/Child%20Protection%20Tech-00ff88?style=flat-square&labelColor=0d1117)
+![Gov](https://img.shields.io/badge/Regional%20Governance%20System-00ffff?style=flat-square&labelColor=0d1117)
+![Agro](https://img.shields.io/badge/Agro%20Digital-ff6600?style=flat-square&labelColor=0d1117)
+![Essay](https://img.shields.io/badge/Scientific%20Essay%20Writer-FFD700?style=flat-square&labelColor=0d1117)
+![Flutter](https://img.shields.io/badge/Flutter%20Developer-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=0d1117)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -129,29 +168,57 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px"> &nbsp;TROPHY COLLECTION
+## 🏆 &nbsp;REKAM JEJAK PRESTASI
 
-<div align="center">
+### 🎖️ Kompetisi Nasional & Internasional
 
-<img src="https://github-profile-trophy.vercel.app/?username=Febri-Silaen&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12"/>
+![count](https://img.shields.io/badge/TOTAL-17%20PRESTASI-00ff41?style=for-the-badge&labelColor=0d1117)
+![intl](https://img.shields.io/badge/INTERNASIONAL-1%20FINALIST-FFD700?style=for-the-badge&labelColor=0d1117)
+![nasional](https://img.shields.io/badge/NASIONAL-16%20AWARDS-00ff88?style=for-the-badge&labelColor=0d1117)
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+![#1](https://img.shields.io/badge/🥇%20Mahasiswa%20Terbaik%20IT%20Del%202026-Juara%20I%20%E2%80%94%20Lokal-FFD700?style=flat-square&labelColor=0d1117)
+&nbsp;
+![#2](https://img.shields.io/badge/🥇%20Pilmapres%20IT%20Del%202026-Juara%20I%20Diploma%20%E2%80%94%20Wilayah-FFD700?style=flat-square&labelColor=0d1117)
 
-</div>
+![#3](https://img.shields.io/badge/🌏%202nd%20ISS%202026%20(USIM%20Malaysia)-Finalist%20Poster%20%E2%80%94%20Internasional-00ffff?style=flat-square&labelColor=0d1117)
 
----
+![#4](https://img.shields.io/badge/🥈%20Lomba%20PIN%202025%20(STIMATA)-Silver%20Medal%20%E2%80%94%20Nasional-C0C0C0?style=flat-square&labelColor=0d1117)
+&nbsp;
+![#5](https://img.shields.io/badge/🥈%20Toba%20Research%20Competition%202026-Juara%20II%20%E2%80%94%20Nasional-C0C0C0?style=flat-square&labelColor=0d1117)
 
-## 🏆 &nbsp;COMPETITION TRACK RECORD
+![#6](https://img.shields.io/badge/🥉%20PENA%202025%20(Univ.%20Mataram)-Bronze%20Medal%20%E2%80%94%20Nasional-CD7F32?style=flat-square&labelColor=0d1117)
+&nbsp;
+![#7](https://img.shields.io/badge/🥉%20NEIRA%202%20Bidang%20Pendidikan%202025-Bronze%20Medal%20%E2%80%94%20Nasional-CD7F32?style=flat-square&labelColor=0d1117)
 
-![Gold](https://img.shields.io/badge/%F0%9F%A5%87%20Pilmapres%20IT%20Del%202026-Juara%20I%20Diploma-FFD700?style=for-the-badge&labelColor=0d1117)
-![Silver](https://img.shields.io/badge/%F0%9F%8E%96%EF%B8%8F%20Pilmapres%20LLDikti%20Wil.%20I%202026-Finalis%20Nasional-C0C0C0?style=for-the-badge&labelColor=0d1117)
-![Bronze](https://img.shields.io/badge/%F0%9F%8F%85%20MCC%202026%20UMSU-Juara%20Terfavorit-CD7F32?style=for-the-badge&labelColor=0d1117)
+![#8](https://img.shields.io/badge/🥇%20Toba%20Essay%20Competition%202026-Gold%20Medal%20Pertanian%20%E2%80%94%20Nasional-FFD700?style=flat-square&labelColor=0d1117)
+&nbsp;
+![#9](https://img.shields.io/badge/🥇%20Toba%20Creative%20Competition%202026-Gold%20Medal%20Pertanian%20%E2%80%94%20Nasional-FFD700?style=flat-square&labelColor=0d1117)
 
-![GEMASTIK](https://img.shields.io/badge/%F0%9F%8E%AF%20GEMASTIK%20XVIII-UX%20Design%20%E2%80%94%20In%20Progress-00ff41?style=for-the-badge&labelColor=0d1117)
-![PKM](https://img.shields.io/badge/%F0%9F%93%84%20PKM--KC%202025-Karya%20Cipta%20%E2%80%94%20Submitted-00ff88?style=for-the-badge&labelColor=0d1117)
-![GIC](https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F%20GIC%202026-National%20Essay%20%E2%80%94%20Submitted-00ffff?style=for-the-badge&labelColor=0d1117)
+![#10](https://img.shields.io/badge/🏅%20Toba%20Essay%20Competition%202026-Harapan%20II%20%E2%80%94%20Nasional-ff6600?style=flat-square&labelColor=0d1117)
+&nbsp;
+![#11](https://img.shields.io/badge/🏅%20FMIPA%20EXPO%20UNIMED%202026-Harapan%20I%20%E2%80%94%20Nasional-ff6600?style=flat-square&labelColor=0d1117)
+
+![#12](https://img.shields.io/badge/⭐%20GEA%202026%20Bidang%20Teknologi-Best%20Inspiring%20Award%20%E2%80%94%20Nasional-00ff88?style=flat-square&labelColor=0d1117)
+&nbsp;
+![#13](https://img.shields.io/badge/⭐%20GEA%202026%20Bidang%20Sosial-Best%20Writing%20Award%20%E2%80%94%20Nasional-00ff88?style=flat-square&labelColor=0d1117)
+
+![#14](https://img.shields.io/badge/⭐%20GEA%202026%20Bidang%20Pendidikan-Best%20Problem%20Identification%20%E2%80%94%20Nasional-00ff88?style=flat-square&labelColor=0d1117)
+&nbsp;
+![#15](https://img.shields.io/badge/🎨%20NEIRA%202%20Poster%202025-Favorite%20Poster%20%E2%80%94%20Nasional-9B59B6?style=flat-square&labelColor=0d1117)
+
+![#16](https://img.shields.io/badge/📄%20Essay%20Indonesia%20Emas%202025%20(ITB)-Finalis%20%E2%80%94%20Nasional-00ffff?style=flat-square&labelColor=0d1117)
+&nbsp;
+![#17](https://img.shields.io/badge/🏅%20MCC%202026%20UMSU-Juara%20Terfavorit%20%E2%80%94%20Nasional-CD7F32?style=flat-square&labelColor=0d1117)
+
+<br>
+
+### 🎯 Kompetisi Aktif
+
+![GEMASTIK](https://img.shields.io/badge/🎯%20GEMASTIK%20XVIII-UX%20Design%20KITABERANI%20%E2%80%94%20In%20Progress-00ff41?style=for-the-badge&labelColor=0d1117)
+![PKM](https://img.shields.io/badge/📄%20PKM--KC%202025-Karya%20Cipta%20%E2%80%94%20Submitted-00ff88?style=for-the-badge&labelColor=0d1117)
+![GIC](https://img.shields.io/badge/✍️%20GIC%202026-National%20Essay%20%E2%80%94%20Submitted-00ffff?style=for-the-badge&labelColor=0d1117)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -210,22 +277,19 @@
 
 <br>
 
-<!-- ══════════════ QUICK STATS ══════════════ -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Febri-Silaen&theme=chartreuse_dark" width="100%"/>
 
 <br>
 
-<!-- ══════════════ CURRENT MISSION ══════════════ -->
 ![Mission](https://img.shields.io/badge/%F0%9F%8E%AF%20CURRENT%20MISSION-PA2%20TAPATUPA%20%C2%B7%20GEMASTIK%20XVIII%20KITABERANI%20%C2%B7%20Impact%20Tech%202026-00ff41?style=for-the-badge&labelColor=0d1117)
 
 <br>
 
-<!-- ══════════════ FOOTER WAVE ══════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003300,70:00ff41,100:0d1117&height=140&section=footer"/>
 
 **◢◤◢◤◢◤◢◤ FEBRI SILAEN &nbsp;|&nbsp; NIM 41424040 &nbsp;|&nbsp; IT Del ◢◤◢◤◢◤◢◤**
 
-*Digital Architect &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; UI/UX Designer &nbsp;·&nbsp; Competitive Engineer*
+*Digital Architect &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; UI/UX Designer &nbsp;·&nbsp; 17+ National & International Awards*
 
 *Built with 💚 from Laguboti, Sumatera Utara — Crafted for Impact*
 
